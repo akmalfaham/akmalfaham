@@ -14,4 +14,3 @@
 
 - **IDE & Tools I Use** <br/>
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img width="50" height="50" src="https://github.com/user-attachments/assets/cce2c0df-00fc-4e91-85fc-53f41af88aa7"/>
