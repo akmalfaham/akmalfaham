@@ -4,7 +4,6 @@
 - 💻 Currently learning CSS, JavaScript, Flutter to my workflow.<br>
 - 🙋‍♂️ Student at Kingston University.
 - 🎇I'm looking for a placement as a Beginner.<br>
-- 🤷‍♂️Ask me about Tech.<br>
 - 🙋‍♂️How to reach me:
 <br/><img width="30" height="30" src="https://cdn-icons-png.freepik.com/256/174/174857.png?semt=ais_white_label">
 - 📫 How to reach me:
