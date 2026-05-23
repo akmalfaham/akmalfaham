@@ -1,10 +1,11 @@
 # Hi there 👋 I'm Akmal Faham
 
-- 🎓 Undergraduate pursuing a B.Sc. (Hons) in Computer Science – Software Engineering.
+- 🎓 Undergraduate pursuing a BSc (Hons) in Computer Science – Software Engineering.
 - 💻 Currently expanding my skills in CSS, JavaScript, and Flutter development.
 - 🏫 Student at Kingston University.
 - 🚀 Passionate about software development and eager to gain industry experience through internships or beginner-level opportunities.
 - 📫 Feel free to connect with me and reach out for collaborations or opportunities!
+
 <br/><img width="30" height="30" src="https://cdn-icons-png.freepik.com/256/174/174857.png?semt=ais_white_label">
 - 📫 How to reach me:
 
