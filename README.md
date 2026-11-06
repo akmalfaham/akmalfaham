@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Akmal Faham
 
 - 🎓 Successfully completed my BSc (Hons) in Computer Science – Software Engineering.
-- 💻 Currently expanding my skills in CSS, JavaScript, and Flutter development (Application Developemnt).
+- 💻 Currently expanding my skills in HTML, CSS, JavaScript, PHP and Flutter development (Application Development).
 - 🏫 Student at Kingston University.
 - 🚀 Passionate about software development and eager to gain industry experience through internships or beginner-level opportunities.
 - 📫 Feel free to connect with me and reach out for collaborations or opportunities!
